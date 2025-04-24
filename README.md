@@ -6,6 +6,20 @@ Uma API utilitária com foco na educação ambiental e na conscientização ecol
 
 ---
 
+ Problema:
+Apesar de muitos sistemas informarem dados gerais, poucos oferecem recursos utilitários e informativos sobre temas socioambientais em tempo real ou de forma simples para integração com plataformas de educação ou conscientização.
+
+ Solução:
+Criar uma API utilitária de conscientização ambiental que disponibiliza dados e funcionalidades voltadas à preservação ambiental e educação ecológica, como:
+
+Geração de sugestões de atitudes ecológicas.
+
+Dados da devastação da Amazônia.
+
+Frases de conscientização e incentivo à sustentabilidade.
+
+---
+
 ##  Funcionalidades
 
 ### 1. **GET /frases**
